@@ -1,6 +1,7 @@
 keep first cell as zero and move to the second cell
 [-] >
 
+
 just set a value 'cause the loop not only checks for zero at the end but also at the beginning
 +
 
