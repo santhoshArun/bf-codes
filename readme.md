@@ -1,5 +1,7 @@
-keep first cell as zero and move to the second cell
+keep first cell as zero and move to the second cell<br>
 [-] >
+<br>
+<br>
 
 just set a value 'cause the loop not only checks for zero at the end but also at the beginning
 +
